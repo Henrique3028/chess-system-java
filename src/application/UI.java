@@ -15,7 +15,7 @@ public class UI {
                 printPiece(pieces[i][j]);
 
             }
-            System.out.println("");
+            System.out.println();
         }
         System.out.println("  a b c d e f g h");
     }
